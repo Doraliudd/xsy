@@ -6,4 +6,4 @@
 - 获取销售易Eclipse插件：Eclipse插件由销售易相关开发人员提供。
 - 获取SecretCode：用户授权密码由销售易相关开发人员提供。
 
-帮助文档[README.md](url)
+帮助文档[](url)
