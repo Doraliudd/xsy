@@ -1,4 +1,4 @@
 # xsy
 framemaker
 
-帮助文档[http://developer.xiaoshouyi.com](url)
+帮助文档[https://developer.xiaoshouyi.com](url)
