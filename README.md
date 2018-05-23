@@ -16,7 +16,7 @@ public class Test {
 ![image](https://user-images.githubusercontent.com/24582613/40411769-f0ab8790-5ea3-11e8-8a39-306c43de97d8.png "googleLogo")
 
 
-![](http://www.xiaoshouyi.com/wp-content/uploads/2017/10/销售云icon.png)
+![](http://www.xiaoshouyi.com/wp-content/uploads/2017/10/销售云icon.png "销售易Logo")
 
 [sample](#sample)
 
