@@ -8,8 +8,8 @@
 
 [帮助文档](https://crm.xiaoshouyi.com/doc/document/index.html)
 
->package other.ajbckk.bdicfkbfkkfaa;
->
->public class Test {
->
->}
+```
+package other.ajbckk.bdicfkbfkkfaa;
+public class Test {
+}
+```
