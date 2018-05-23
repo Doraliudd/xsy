@@ -8,7 +8,7 @@
 
 [帮助文档](https://crm.xiaoshouyi.com/doc/document/index.html)
 
-```
+```java
 package other.ajbckk.bdicfkbfkkfaa;
 public class Test {
 }
