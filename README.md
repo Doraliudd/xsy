@@ -7,3 +7,9 @@
 - 获取SecretCode：用户授权密码由销售易相关开发人员提供。
 
 [帮助文档](https://crm.xiaoshouyi.com/doc/document/index.html)
+
+>package other.ajbckk.bdicfkbfkkfaa;
+>
+>public class Test {
+>
+>}
