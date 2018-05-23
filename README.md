@@ -8,6 +8,8 @@
 
 [帮助文档](https://crm.xiaoshouyi.com/doc/document/index.html)
 
+[sample](#sample)
+
 ```java
 package other.ajbckk.bdicfkbfkkfaa;
 public class Test {
@@ -20,7 +22,7 @@ public class Test {
 
 ![](https://github.com/Doraliudd/xsy/blob/master/Images/clue03.png)
 
-[sample](#sample)
+
 
 
 沙盒环境与生产环境的物理隔离：
