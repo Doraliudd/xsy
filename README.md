@@ -14,6 +14,6 @@ public class Test {
 }
 ```
 
-[sqmple](url)
+[sample](#sample)
 
 #sample
